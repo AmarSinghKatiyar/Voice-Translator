@@ -135,3 +135,11 @@ Audio played: hello.mp3
 2. Install dependencies
 3. Run voice_translator.py
 4. Speak and enjoy instant voice translation!
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates continued development.
+
+Thank you for your support! ❤️
